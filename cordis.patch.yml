@@ -1,0 +1,4 @@
+# dsh-custom-prompt 的 bundle 层：插入 Host 与 Client 共用的插件行。
+- insert:
+    - id: custom-system-prompt
+      name: "dsh-custom-prompt"

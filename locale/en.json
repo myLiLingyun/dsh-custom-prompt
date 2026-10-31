@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Custom System Prompt",
+    "description": "Adds a field below the composer in new sessions; its text is appended to that session's system prompt. A configurable default text prefills the field but is appended only after you click Apply."
+  }
+}
